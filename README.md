@@ -1,6 +1,6 @@
-# LogHelper
+# LogHelper.py
 
-LogHelper is a Python utility for logging, designed to enhance the debugging and monitoring process. It can output logs to both the console and a file, with formats that can be customized based on log levels. The utility is contained in a single script, `LogHelper.py`.
+LogHelper is a Python utility for logging, designed to enhance the debugging and monitoring process. It can output logs to both the console and a file, with formats that can be customized based on log levels. The utility is contained in a single script, [LogHelper.py](LogHelper.py).
 
 ## Features
 
