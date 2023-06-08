@@ -20,7 +20,7 @@ LogHelper is a Python utility for logging, designed to enhance the debugging and
 from LogHelper import log
 ```
 
-3. You can now use the log function to log messages at different levels. The level should be passed as a string and can be 'INFO', 'WARNING', 'ERROR', or 'DEBUG'. If no level is specified, 'INFO' is used by default. The string is case insensitive.
+3. You can now use the log function to log messages at different levels. The level should be passed as a string and can be 'INFO', 'WARNING', 'ERROR', or 'DEBUG'. If no level is specified, 'INFO' is used by default. The level string is case insensitive.
 
 ```python
 log('This is an info message')
