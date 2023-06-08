@@ -39,6 +39,25 @@ You can also print an 80-character seperator line by using:
 log('-')
 ```
 
+## Example Output
+
+Console output:
+```
+This is an info message
+WARNING - This is a warning message
+ERROR - This is an error message
+DEBUG - This is a debug message
+```
+
+File output:
+```
+2023-06-08 12:04:48,227 - This is an info message
+2023-06-08 12:04:48,227 - WARNING - This is a warning message
+2023-06-08 12:04:48,228 - ERROR - This is an error message
+2023-06-08 12:04:48,228 - DEBUG - This is a debug message
+```
+
+
 ## Requirements
 * Python 3.6 or later.
 
