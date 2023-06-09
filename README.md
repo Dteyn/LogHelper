@@ -57,6 +57,10 @@ File output:
 2023-06-08 12:04:48,228 - DEBUG - This is a debug message
 ```
 
+## Limitations
+
+In the current version, an apostrophe (') cannot be present in the log text as it terminates the log text string.
+
 
 ## Requirements
 * Python 3.6 or later.
